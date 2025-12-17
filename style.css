@@ -2,3 +2,9 @@ li{
     color: blue;
     font-size: 30px;
 }
+
+h1{
+    font-size: 40px;
+    color: brown;
+    background-color: grey;
+}
